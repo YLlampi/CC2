@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//optimizado
 long a(int n){
 	long as=0;
 	bool b[n+1];
